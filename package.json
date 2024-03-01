@@ -1,0 +1,17 @@
+{
+  "name": "pro-hc",
+  "version": "1.0.0",
+  "description": "Backend Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript",
+    "Node",
+    "Backend",
+    "Youtube"
+  ],
+  "author": "Shubham Verma",
+  "license": "ISC"
+}
