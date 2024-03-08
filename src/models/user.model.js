@@ -46,7 +46,7 @@ const userSchema = new Schema(
       type: String,
     },
   },
-  { timestamp: true }
+  { timestamps: true }
 );
 // for encrypting password - pre hook of middleware
 userSchema.pre("save", async function(next) {
